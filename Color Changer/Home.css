@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#White{
+    background-color: white;
+}
+
+#Grey{
+    background-color: grey;
+}
+
+#Blue{
+    background-color: blue;
+}
+
+#Yellow{
+    background-color: yellow;
+}
