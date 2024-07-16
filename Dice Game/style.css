@@ -1,0 +1,27 @@
+*{
+    background-color: lightblue;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+}
+
+#Container{
+    margin: 50px;
+}
+
+#Players{
+    display: flex;
+    gap: 40%;
+    justify-content: center;
+    font-size: x-large;
+}
+
+#Dices{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+}
