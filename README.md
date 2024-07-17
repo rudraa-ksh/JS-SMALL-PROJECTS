@@ -22,6 +22,8 @@
   - The webpage stats changing color when we press "start" and stops when we press "stop".
   ### 7. Keyboard:
   - Print the character given as input through keyboard on the webpage.
+  ### 8. Dice Game:
+  - A two player single round game where each player through dice and the result is declared.
 
 ## Getting Started:
 1. Install [Node.js](https://nodejs.org/en/download/package-manager). Node.js provide JavaScript runtime environment.
